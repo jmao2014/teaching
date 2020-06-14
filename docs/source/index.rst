@@ -8,6 +8,13 @@ Welcome to PH450-astrophysics
 
 Author: `Junjie Mao <https://sites.google.com/view/junjiemao-astroph/home>`_
 
+Taking an astrophysics project is exiting and challenging for undergraduate
+and graduate students, especially those who have limited background on
+astrophysics. The following are some teaching materials on the introduction of
+the Universe, scientific programming, and scientific writing.
+
+(The teaching materials are still under heavy development)
+
 .. toctree::
    :maxdepth: 2
    :numbered:
@@ -15,6 +22,7 @@ Author: `Junjie Mao <https://sites.google.com/view/junjiemao-astroph/home>`_
    includeme
    astroph
    scipro
+   sciwrt
 
 
 Indices and tables
