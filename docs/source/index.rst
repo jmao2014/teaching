@@ -13,6 +13,9 @@ Author: `Junjie Mao <https://sites.google.com/view/junjiemao-astroph/home>`_
    :numbered:
 
    includeme
+   astroph
+   scipro
+
 
 Indices and tables
 ==================
