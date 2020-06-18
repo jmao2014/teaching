@@ -71,3 +71,8 @@ Reference
 -------------
 - `Distance to the Moon (pdf)
   <https://www.nasa.gov/sites/default/files/files/Distance_to_the_Moon.pdf>`_
+
+Extra reading materials
+---------------------------
+- `(Stellar) Social Distancing in the Milky Way Bulge (astrobite)
+  <https://astrobites.org/2020/06/16/milkyway-encounters/>`_
