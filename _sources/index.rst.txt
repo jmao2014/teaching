@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to introduction of astrophysical research projects
+Teaching materials for astrophysical research projects
 ================================================================
 
 Author: `Junjie Mao <https://sites.google.com/view/junjiemao-astroph/home>`_

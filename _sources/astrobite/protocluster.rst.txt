@@ -13,6 +13,6 @@ in time), when the Universe was about one third of its current size.
 
 Read the astrobites and answer questions.
 -----------------------------------------------------------------
-- The starry, dusty origin of a galaxy cluster at z = 4! (
-  `astrobite <https://astrobites.org/2020/08/08/the-starry-dusty-origin-of-a-galaxy-cluster-at-z-4/>`_
+- The starry, dusty origin of a galaxy cluster at z = 4! (`astrobite
+  <https://astrobites.org/2020/08/08/the-starry-dusty-origin-of-a-galaxy-cluster-at-z-4/>`_
   and `google form <https://forms.gle/so8jke1woheEZnYX7>`_)
