@@ -5,3 +5,4 @@ Astrobite
    :maxdepth: 2
 
    astrobite/protocluster
+   astrobite/exoplanet

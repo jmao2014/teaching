@@ -11,7 +11,7 @@ The progenitors of clusters, known as protoclusters, are typically found at
 redshifts greater than 2 (the higher the redshift, the farther back it is
 in time), when the Universe was about one third of its current size.
 
-Read the astrobites and answer questions.
+Read the astrobites and answer questions via google forms
 -----------------------------------------------------------------
 - The starry, dusty origin of a galaxy cluster at z = 4! (`astrobite
   <https://astrobites.org/2020/08/08/the-starry-dusty-origin-of-a-galaxy-cluster-at-z-4/>`_
