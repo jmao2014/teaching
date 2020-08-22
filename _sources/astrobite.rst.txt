@@ -1,6 +1,12 @@
 Astrobite
 =========================
 
+
+Read the astrobites and answer questions via google forms
+
+Example
+-----------------------------------------------------------------
+
 .. toctree::
    :maxdepth: 2
 
