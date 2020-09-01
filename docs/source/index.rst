@@ -24,7 +24,7 @@ The teaching materials are still under heavy development.
    astroph
    scipro
    sciwrt
-   astrobite
+   astrobites
 
 
 Indices and tables
