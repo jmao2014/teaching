@@ -15,6 +15,8 @@ way to grow a supermassive black hole is through merging of less massive
 black holes. This is challenged by the lack of IMBH out there in the Universe.
 Therefore, hunting for the "missing" IMBH is a hot topic.
 
+
+
 - Elusive black holes: Have we found the ‘middle sibling’? (`astrobites
   <https://astrobites.org/2019/11/06/elusive-black-holes-have-we-found-the-middle-sibling//>`_
   and `google form <>`_)
@@ -40,3 +42,11 @@ measure in order to know that whether Gal 3 is also connected with Gal 1?
 Answer: If the redshifts of Gal 1 and Gal 3 are close, it is more likely
 they are connected. If the redshifts differ significantly, they should not
 be connected.
+
+https://astrobites.org/2019/08/13/when-stretching-stars-with-black-holes-gets-unstable/
+When stretching stars with black holes gets unstable
+
+Q1: Looking at Figure 2, what kind of observational evidence do you think
+is needed to easily tell
+
+Try to connect with the previous astrobites

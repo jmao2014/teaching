@@ -13,8 +13,8 @@ by many astronomers because:
 - It is **free** and well-maintained.
 - It provides all kinds of freedom for programming and application.
 
-.. note:: The overwhelming majority of the astronomers use Macbook air/pro
-  for A fun fact base on my observation. 
+.. Note:: For a fun fact base on my observation, the overwhelming majority of
+  the astronomers use Macbook air/pro.
 
 .. topic:: Assignment
 
