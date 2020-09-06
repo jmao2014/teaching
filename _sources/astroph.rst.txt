@@ -6,3 +6,4 @@ Astrophysics
 
    astroph/infuniv
    astroph/obsuniv
+   astroph/linkuniv

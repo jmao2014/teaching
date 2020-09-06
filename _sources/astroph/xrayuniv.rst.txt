@@ -1,0 +1,43 @@
+.. _sec:xrayuniv:
+
+The X-ray Universe
+=====================================
+
+.. highlight:: none
+
+Black holes, stars, and galaxies are not isolated "islands" in the Universe.
+Their formation and evolution are governed by the rich dynamics of
+surrounding materials. For instance, to explain many key
+observable properties of galaxies, feedback from their member stars and
+supermassive black holes are required. However, the details of how does
+it work and when does it occur remain uncertain
+from both an observational and theoretical perspectives.
+
+About half of the baryonic matter in the entire Universe is expected to be
+in the form of diffuse hot plasmas with a temperature up to billions of
+degrees. Since the hot plasmas shine in the X-ray wavelength range
+(0.1-100 Å), X-ray spectroscopy is thus one of the main techniques
+to reveal their nature. Plasma diagnostics can quantify the
+physical properties (temperature, density, chemical composition,
+microscopic turbulence, line of sight velocity, etc.) of the observing targets.
+Such valuable information is essential to understand the complex interplay
+that connects those seemingly isolated "islands" in the Universe.
+
+High-quality X-ray spectra collected by the current and future missions
+also challenge plasma models widely used in the community.
+This requires the continuous development of plasma codes.
+
+(\textit{XMM-Newton} and \textit{Chandra})
+(\textit{XRISM} \cite{tas18}, \textit{Athena} \cite{nan13,bar18}, \textit{Arcus} \cite{smi16}, and \textit{HUBS} \cite{cui20})
+
+.. topic:: Assignment
+
+  - There are a few X-ray space observatories launched since 1999, including
+    `NASA's Chandra space observatory
+    <https://www.nasa.gov/mission_pages/chandra/main/index.html>`_.
+    Write a few sentences about Chandra and 2 to 4 other similar X-ray space
+    observatories.
+
+
+Reference
+-------------

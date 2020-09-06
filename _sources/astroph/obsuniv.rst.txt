@@ -44,7 +44,7 @@ differently at different wavelengths.
 
 Accordingly, astronomers often need to probe the same target with different
 telescopes that cover a wide range of the electromagnetic spectrum. For the
-PH450 project, we only focus on the X-ray Universe observed with ESA's
+PH450 project, we focus on the X-ray Universe observed with ESA's
 `XMM-Newton space observatory <https://www.cosmos.esa.int/web/xmm-newton>`_.
 
 .. figure:: esa_fleet.jpg
@@ -60,16 +60,16 @@ PH450 project, we only focus on the X-ray Universe observed with ESA's
 
 .. topic:: Assignment
 
-  - There are a few X-ray space observatories launched since 1999, including
-    `NASA's Chandra space observatory
-    <https://www.nasa.gov/mission_pages/chandra/main/index.html>`_.
-    Write a few sentences about Chandra and 2 to 4 other similar X-ray space
-    observatories.
-
-  - Take a loot at 5 to 7 images of celestial bodies from the `XMM image gallery
-    <https://www.cosmos.esa.int/web/xmm-newton/image-gallery>`_ and the
-    `Chandra photo album <https://chandra.harvard.edu/photo/>`_.
-    Write no more than a few sentences about each celestial body.
+  - Take a look at images of celestial bodies from the
+    `Low-Fequency Array (LOFAR, radio)
+    <https://lofar-surveys.org/gallery_preview.html>`_,
+    `Herschel (infrared) <https://www.herschel.caltech.edu/images>`_,
+    `Hubble Space Telescope (HST, optical/UV) image gallery
+    <https://hubblesite.org/images/gallery>`_,
+    and the `Chandra (X-ray) photo album
+    <https://chandra.harvard.edu/photo/>`_.
+    Select at least one image from each telescope and up to six images
+    in total. Write no more than a few sentences about each image.
 
 Reference
 -------------
